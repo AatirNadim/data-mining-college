@@ -1,0 +1,10 @@
+10 A,B,C
+12 B,C
+23 C,D,E,F
+9 A,B,E
+40 A,C,D
+11 A,B,D
+13 E,C
+24 C,D,E,F
+19 A,D,E
+41 A,E,D
